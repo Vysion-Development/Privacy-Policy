@@ -18,4 +18,5 @@
 No, we do not share data with any 3rd parties!
 
 4) **How can users get data removed, or how can users contact the bot owner?**
-To have your data removed, or to contact the Discord bot developer, you can send me ([@max1385](https://discord.com/users/770636457043034112)) a friend request or a DM on Discord (maybe my DMs are sometimes closed, but you can still send me a friend request)!
+- Our bot is programmed to delete all your server data when the bot is removed from the server. The data retention time is therefore only when the bot is actively used on the discord server. If you still want to delete any data, see the following instructions:
+- A deletion of the data can be requested at any time by contacting us. Please note that a deletion of the data can take up to 30 days. You can contact us on our [Discord Support Server](https://neon.ly/vysion-support) to request a Deletion of Data. There is a channel called support-ticket where you can submit your request for data deletion.
